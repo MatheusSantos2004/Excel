@@ -1,1 +1,8 @@
+Estes arquivos Excel foram bases criadas manualmente, propostas pelo livro Microsoft Power BI, nelas temos as bases de Vendas e Custos de uma empresa ficticia do ano de 2018.
 
+A Base de vendas foi criada com as colunas País, Continente, Código da Loja, Loja, Mês, Código - Mês e Valor das Vendas. Para criação desta base foi digitada mnanualmente os dados das colunas País, 
+Còdigo da loja, Mês e Valor das Vendas, já para a coluna Continente foi usada a fórmula SES e OU para verificar qual país estava na célula da coluna País e assim classificar o continente, sendo usada a fórmula
+SES paras as colunas Loja e também. Já para a coluna Còdigo - Mês foi usada a fórmula UnirTexto para unir os textos da coluna Còdigo e Mês e definir o delimitador como " - ".
+
+A Base de custos, foi criada com a coluna Código da Loja, Mês, Código - Mês (que teve o mesmo uso de criaçao da coluna Còdigo - Mês da base vendas, com a função UnirTexto), Valor Total de Custos e Quantidade de
+Funcionários.
